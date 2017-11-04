@@ -1,4 +1,5 @@
 # #wd42 Documents
 Documentation for how we run #wd42 events
 
-‣ [Event prep](EVENT_PREP.md) (everything up to the night)
+- [Notes for potential speakers](POTENTIAL_SPEAKERS.md)
+- [Event prep](EVENT_PREP.md) (everything up to the night)

@@ -8,7 +8,7 @@ Note: I don't know what we do if that day falls on a public holiday.
 Speakers can be set for an event at any point. If they are set quite early it's worth confirming before the first event notifications are sent out.
 
 ## Event notifications
-Event communication is currently done by EMail, Twitter, and Facebook.
+Event communication is currently done by email, Twitter, and Facebook.
 
 ### Two weeks out from event
 **Social blast (Tweet + FB)**

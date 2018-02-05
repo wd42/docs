@@ -1,9 +1,9 @@
 # Notes for Potential Speakers
 
-The #wd42 events are welcoming for speakers of all ages and levels of experience. We especially encourage you to speak at our events if you're a first-timer, new to the field, or an [impostor](https://en.wikipedia.org/wiki/Impostor_syndrome).
+We want #wd42 events to be welcoming for speakers of all ages and levels of experience. We especially encourage you to speak at our events if you're a first-timer, new to the field, or an [impostor](https://en.wikipedia.org/wiki/Impostor_syndrome).
 
 ## Who should speak
-Anyone who is involved in software, websites, apps, frameworks, libraries, tools, or programming languages. Your role might be in plannig, speccing, designing, building, reviewing, maintaining, teaching, documenting, testing, writing-for, or project-managing.
+Anyone who is involved in software, websites, apps, frameworks, libraries, tools, or programming languages. Your role might be in planning, speccing, designing, building, reviewing, maintaining, teaching, documenting, testing, copywriting, or project-managing.
 
 ## What should they speak about
 You can talk about whatever interests you. We've had a variety of talks, including ones about:

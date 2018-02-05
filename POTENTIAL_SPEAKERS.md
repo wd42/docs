@@ -1,4 +1,4 @@
-# Note for Potential Speakers
+# Notes for Potential Speakers
 
 The #wd42 events are welcoming for speakers of all ages and levels of experience. We especially encourage you to speak at our events if you're a first-timer, new to the field, or an [impostor](https://en.wikipedia.org/wiki/Impostor_syndrome).
 

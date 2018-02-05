@@ -38,3 +38,7 @@ These two posts need to include:
 Need to set up chairs and TV in venue. 
  
 Currently the venue sponsor takes care of the drinks fridge being stocked. And the pizza is ordered on the night, so there isn't any prep currently.
+
+## Day after the event
+- Tweet / FB post about how freakin' good the event was
+- Update the FB banner image with a new banner image (banner with date of next event or just a standard image from our previous banners if we don't have any with dates made up)

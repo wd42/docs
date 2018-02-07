@@ -20,7 +20,7 @@ Generally the first mailout is about 2 weeks out from the event. If we don't hav
 - Have too much content in slides
 - Platform shame (that is, don't make comments or jokes which imply that a tool, technique, language, platform, etc. is inferior). 
 - Talks must not be sexist, racist, obviously offensive, or attack individuals or groups
-- Include mention people (e.g. by name, image, etc.) without their permission unless they are a public figure for the reason you're discussing them
+- Include or mention people (e.g. by name, image, etc.) without their permission unless they are a public figure for the reason you're discussing them
 
 ## On the night
 ### Equipment

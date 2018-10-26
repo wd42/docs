@@ -2,10 +2,10 @@
 
 We want #wd42 events to be welcoming for speakers of all ages and levels of experience. We especially encourage you to speak at our events if you're a first-timer, new to the field, or an [impostor](https://en.wikipedia.org/wiki/Impostor_syndrome).
 
-## Who should speak
+## Who should speak?
 Anyone who is involved in software, websites, apps, frameworks, libraries, tools, or programming languages. Your role might be in planning, speccing, designing, building, reviewing, maintaining, teaching, documenting, testing, copywriting, or project-managing.
 
-## What should they speak about
+## What should they speak about?
 You can talk about whatever interests you. We've had a variety of talks, including ones about:
 - Programming languages
 - Tools, frameworks, libraries
@@ -21,7 +21,7 @@ You can talk about whatever interests you. We've had a variety of talks, includi
 We love new and interesting topics and talk formats so if you have an idea let's chat!
 
 ## I've got an idea what do I do?
-If you have an idea brewing you should definitely reach out to one of the organisers. We can have a chat and organise an event slot for you.
+If you have an idea brewing you should definitely reach out to one of the organisers. We can have a chat and organise an event slot for you.  
 
 ## Talk length
 We try to have regular talks go for 25 - 30 minutes. This is generally a good length and leaves 10 - 15 minutes for questions, chat, and overrun.

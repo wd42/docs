@@ -28,4 +28,4 @@ We try to have regular talks go for 25 - 30 minutes. This is generally a good le
 We sometimes run Lightning Talks. This is when we put 2 or 3 talks of 5 - 10 minutes into one speaking slot. These are more lightweight talks for smaller subjects with less time for questions, etc. Some topics might be better suited for lightning talks rather than stretching to fill a full slot.
 
 ## Do I need to come to the events to speak?
-We encourage anyone in Hobart who is interested in this field to attend our events. We prefer speakers to have attended at least one event before they speak, but it's not a requirement.
+We encourage anyone in Hobart who is interested in this field to attend our events. We prefer potential speakers to attend at least one event before volunteering to present.

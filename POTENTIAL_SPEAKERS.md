@@ -20,12 +20,12 @@ You can talk about whatever interests you. We've had a variety of talks, includi
 
 We love new and interesting topics and talk formats so if you have an idea let's chat!
 
-## I've got an idea what do I do?
+## I've got an idea what should I do?
 If you have an idea brewing you should definitely reach out to one of the organisers. We can have a chat and organise an event slot for you.  
 
 ## Talk length
 We try to have regular talks go for 25 - 30 minutes. This is generally a good length and leaves 10 - 15 minutes for questions, chat, and overrun.
-We sometimes run Lightning Talks. This is when we put 2 or 3 talks of 5 - 10 minutes into one speaking slot. These are more light-weight talks for smaller subjects with less time for questions, etc. Some topics might be better suited for lightning talks rather than stretching to fill a full slot.
+We sometimes run Lightning Talks. This is when we put 2 or 3 talks of 5 - 10 minutes into one speaking slot. These are more lightweight talks for smaller subjects with less time for questions, etc. Some topics might be better suited for lightning talks rather than stretching to fill a full slot.
 
 ## Do I need to come to the events to speak?
 We encourage anyone in Hobart who is interested in this field to attend our events. We prefer speakers to have attended at least one event before they speak, but it's not a requirement.
